@@ -13,7 +13,7 @@ function login(){
 
     if (email == predefinidoEmail01  && password == predefinidosenha01){
         alert("Login efetuado com sucesso!")
-        // window.location.href = "home.html"
+        window.location.href = "home.html"
     }
     else {
         alert("Email ou senha incorretos!")
