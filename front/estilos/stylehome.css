@@ -144,6 +144,46 @@ h3{
     margin-top: 10px;
 }
 
+form select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 25px;
+    border: 1px solid #8700ad;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.btn-confirmar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    color: black;
+    cursor: pointer;
+    border-radius: 8px;
+    background-color: rgb(4, 255, 42);
+}
+
+.formulario-container h2{
+    font-size: 30px;
+}
+.formulario-container label{
+    font-size: 20px;
+    padding: 10px;
+}
+.formulario-container input{
+    font-size: 18px;
+    padding-top: 5px;
+}
+
+.new-user form select {
+    width: 100%;
+    padding: 2px;
+    margin-bottom: 25px;
+    border: 1px solid #8700ad;
+    border-radius: 4px;
+    font-size: 16px;
+}
 
 
 
